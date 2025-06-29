@@ -1,0 +1,37 @@
+{
+  "home": "🏠 Home",
+  "sign_in": "Sign In",
+  "sign_up": "Sign Up",
+  "sign_out": "Sign Out",
+
+  "write_story": "✍️ Write a New Story",
+  "title": "Story Title",
+  "content": "Story Content...",
+  "publish": "✅ Publish Story",
+  "fill_fields": "Please fill in all fields",
+  "story_published": "✅ Story published",
+  "publish_error": "An error occurred while publishing",
+
+  "edit_story": "✏️ Edit Story",
+  "save_changes": "💾 Save Changes",
+  "story_updated": "✅ Story updated",
+  "update_error": "An error occurred while updating",
+
+  "story_not_found": "Story not found",
+  "fetch_error": "Failed to load stories",
+  "loading": "Loading story details...",
+
+  "your_stories": "✨ Stories From Your World",
+  "search": "🔍 Search for a story...",
+  "no_match": "No stories match the search.",
+
+  "likes_count": "Likes",
+  "like": "❤️ Like",
+  "like_failed": "Like failed",
+  "read": "📖 Read",
+  "edit": "✏️ Edit",
+  "delete": "🗑️ Delete",
+  "confirm_delete": "Are you sure you want to delete this story?",
+  "story_deleted": "Story deleted",
+  "delete_failed": "Delete failed"
+}
